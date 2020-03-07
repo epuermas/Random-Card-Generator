@@ -4,6 +4,13 @@ body {
   background-color: #13a865;
   box-sizing: border-box;
 }
+
+.button {
+  position: relative;
+  margin-left: 45%;
+  margin-top: 12%;
+  padding: 0, 0, 0, 0;
+}
 .card {
   background: white;
   box-shadow: 2px 5px 10px black;
